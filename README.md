@@ -10,7 +10,6 @@
 <a href="mailto:aseemathale@protonmail.ch"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 <a href="https://t.me/Mister_Smee"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://forum.xda-developers.com/m/mistersmee.9681064/"><img src="https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white"></a>
-<a href="https://www.reddit.com/user/Herr_Smee"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 
 <!---
 mistersmee/mistersmee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
