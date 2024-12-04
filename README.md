@@ -2,7 +2,7 @@
 [![Aseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mistersmee&count_private=true&show_icons=true&theme=dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 -  Hi, I'm Aseem Athale (@mistersmee).
 -  I'm interested in Linux stuff.
--  I'm currently pursuing a B.Tech degree in Computer Science and Engineering  with a specialization in Artificial Intelligence and Machine Learning, and a B.Tech. Honors in Cybersecurity at the Kolhapur Institute of Technology's College of Engineering, Kolhapur, but my Github is full of stuff I tinker with on my desktop on a daily basis.
+-  I'm currently pursuing a B.Tech degree in Computer Science and Engineering  with a specialization in Artificial Intelligence and Machine Learning at Kolhapur Institute of Technology's College of Engineering, Kolhapur, but my Github is full of stuff I tinker with on my desktop on a daily basis.
 -  My GPG key is :- `C556D7C69C787026E5F3E7E622BEFFCE9298C296`
 
 ## Contact
